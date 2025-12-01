@@ -70,6 +70,7 @@ Tested across various MTK-powered smartphones.
 ## ❤️ Credits
 
 - **S. SHAJON**: Module development, comprehensive testing, and resolution of all identified bugs.
+- 
 - **Spencer_D**: Module development.
 - **Open-source community**: For providing foundational tools and resources.
 
